@@ -15,6 +15,7 @@ Testando os códigos. O Pomg
 #define TAM_RAQUETE 4
 
 int main(void) {
+    int gamer;
     setlocale(LC_ALL, "");
     srand((unsigned int) time(NULL));
 
@@ -36,6 +37,8 @@ int main(void) {
     // Placar
     int pontos_p1 = 0;
     int pontos_p2 = 0;
+
+    scanf("%d", &gamer);
 
     for (int ciclo = 0; ciclo < 400; ciclo++) {
         clear_screen();
