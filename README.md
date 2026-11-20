@@ -1,3 +1,2 @@
-# Bem vindo
-Este trabalho foi desenvolvido pelos alunos Jeudy Ferreira Lima e Diego de Souza Bonfim, alunos 
-do 2º Semestre em Bacharelado em Ciênicas da Computação
+# Arquivos Base
+Nesta parte, estão os arquivos utilizados para o escopo inicial do jogo
